@@ -1,0 +1,31 @@
+{
+  "name": "react-native-family-tree",
+  "version": "0.0.1",
+  "description": "Simple family tree view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johncy1997/react-native-family-tree.git"
+  },
+  "keywords": [
+    "react-native",
+    "tree",
+    "react-native-d3-tree",
+    "family-tree"
+  ],
+  "author": "Johncy Arul A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johncy1997/react-native-family-tree/issues"
+  },
+  "homepage": "https://github.com/Johncy1997/react-native-family-tree#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-native": "^0.60.5",
+    "react-native-svg": "^9.9.3"
+  }
+}
