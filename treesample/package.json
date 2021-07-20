@@ -10,7 +10,7 @@
   "dependencies": {
     "prop-types": "^15.7.2",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-family-tree": "0.0.1",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-svg": "^9.9.3"
